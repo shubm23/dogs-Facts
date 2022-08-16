@@ -1,2 +1,1 @@
-# dogs-Facts
-Created with CodeSandbox
+# Redux Template
